@@ -59,7 +59,7 @@ export default [
         "discountPercentage": 10.58,
         "rating": 4.09,
         "stock": 32,
-        "brand": "Huawei",
+        "brand": "Huawei ",
         "category": "smartphones",
         "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
         "images": 'https://fdn2.gsmarena.com/vv/pics/huawei/huawei-p30-1.jpg'
